@@ -2,6 +2,8 @@ import pygame
 import random
 import tkinter
 
+#Comentario de prueba
+
 #Colores, constanes
 BLANCO = (255, 255, 255)
 NEGRO = (0, 0, 0)
